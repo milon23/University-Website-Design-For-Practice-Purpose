@@ -1,0 +1,71 @@
+*{margin:0;padding:0;outline:0}
+body{font-family:arial;font-size:14px;line-height:18px;color:#000;background:url(images/bg.png)repeat scroll 00;}
+	.template{width:960px;margin:0px auto}
+	.clear{overflow:hidden}
+.header {
+  background: #286F36;
+  border: 3px solid #286e47;
+}
+	.header p {
+  font-size: 30px;
+  padding: 32px;
+  text-align: right;
+}
+.header p a {
+  color: #740000;
+  text-decoration: none;
+}
+.header p a:hover{color:white }
+ 
+.header img {
+  background: #fff none repeat scroll 0 0;
+  border: 2px solid #276f48;
+  float: left;
+  height: 128px;
+  margin: -64px 10px 12px;
+  width: 138px;
+}
+.header h2 {
+  color: #b9d0d0;
+  font-size: 23px;
+}
+.manu {
+  background: #286f47 none repeat scroll 0 0;
+  border: 2px solid #af6969;
+  margin-top: 2px;
+  height:80px;
+}
+.manu ul{margin:0;padding:0;list-style:none;}
+.manu ul li {
+display:block;
+float:left;
+position:relative;
+
+}
+
+.manu ul li a {
+  color: #fd6d73;
+  display: block;
+  font-size: 26px;
+  font-weight: bold;
+  padding: 30px 4px;
+  text-decoration: none;
+  background: #428961;
+  text-decoration:none;
+}
+
+.manu ul li a:hover{background:#FFF;color:black;}
+.manu ul li ul { position:absolute; left:-999999999px;}
+.manu ul li:hover ul {left:0px;}
+.manu ul li ul li{width:200px;}
+.manu ul li ul li a{}
+.manu ul li ul li a:hover{}
+	
+
+
+
+
+
+	
+	
+	
